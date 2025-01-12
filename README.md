@@ -48,5 +48,5 @@ It was developed to showcase teamwork, creativity, and problem-solving skills in
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/the-office-basket.git
+   git clone https://github.com/i8r4him/the-office-basket.git
    cd the-office-basket
